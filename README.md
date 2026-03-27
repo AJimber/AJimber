@@ -12,7 +12,7 @@ Second-year Computer Engineering student.
 - UML
 
 ## Currently
-Currently starting to work on small software development projects
+Currently starting to work on small software development projects.
 
 ## Contact
 - Email: ajimberuco@gmail.com
