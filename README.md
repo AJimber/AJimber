@@ -10,9 +10,11 @@ Second-year Computer Engineering student.
 - Git
 - HTML
 - UML
+- Linux
 
 ## Currently
-Currently starting to work on small software development projects.
+- Currently starting to work on small software development projects.
+- Managing a self-hosted Linux home server
 
 ## Contact
 - Email: ajimberuco@gmail.com
