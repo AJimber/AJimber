@@ -11,6 +11,7 @@ Second-year Computer Engineering student.
 - HTML
 - UML
 - Linux
+- BASH
 
 ## Currently
 - Currently starting to work on small software development projects.
