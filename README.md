@@ -8,6 +8,7 @@ Second-year Computer Engineering student.
 - SQL/PL-SQL
 - Python
 - Git
+- JavaScript
 - HTML/CSS
 - UML
 - Linux
