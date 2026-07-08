@@ -1,6 +1,6 @@
 # AJimber
 
-Second-year Computer Engineering student.
+Third-year Computer Engineering student.
 
 ## Technologies
 - C++
