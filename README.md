@@ -17,7 +17,7 @@ Third-year Computer Engineering student.
 ## Currently
 - Currently starting to work on small software development projects.
 - Managing a self-hosted Linux home server
-- Developed a business website for a local store: https://www.bazarsanlorenzo.com/
+- Developed a business website for a local store
 
 ## Contact
 - Email: ajimberuco@gmail.com
