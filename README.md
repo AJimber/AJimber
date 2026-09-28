@@ -13,6 +13,7 @@ Third-year Computer Engineering student.
 - UML
 - Linux
 - BASH
+- OpenCV
 
 ## Currently
 - Currently starting to work on small software development projects.
