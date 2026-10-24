@@ -18,6 +18,7 @@ I enjoy understanding how software works internally, solving computational probl
 **Frameworks & Libraries**
 - Django
 - OpenCV
+- Qt
 
 **Game Development**
 - Godot Engine
